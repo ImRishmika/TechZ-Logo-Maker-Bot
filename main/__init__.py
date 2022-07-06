@@ -9,7 +9,7 @@ app = Client(
   bot_token=BOT_TOKEN
 )
 
-print("[INFO]: STARTING BOT...")
+print("[INFO]: EMO LOGO MAKER STARTING BOT...")
 app.start()
 
 print("[INFO]: STARTING AIOHTTP CLIENT")
